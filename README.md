@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davykololi
 - 👀 I’m interested in laravel programming
-- 🌱 I’m currently learning how to build outstsnding laravel applications using different technologies such as livewire, vue js, react js.
+- 🌱 I’m currently learning how to build outstsnding laravel applications using different technologies such as livewire, vue js, react js, nextjs, nestjs, tanstack start and flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is via email: kololimdavid@gmail.com or mobile: 254724351952
 
